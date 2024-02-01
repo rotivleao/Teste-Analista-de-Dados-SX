@@ -168,7 +168,7 @@ o comportamento das notas 4 provas vs. estes dados.
 tentei seguir para Mysql.connector, porém ele não suporta o volume da base.
   * Para não deixar de concluir o desafio eu criei uma amostragem com 10.000 linhas do arquivo MICRODADOS_ENEM_2020 e importei ele para o banco de dados na nuvem que criei pela **[RailWay](https://railway.app/)**.
 Essa núvem eu criei 1 base fato e 6 dimensões para fazer o diagrama em formato de estrela solicitado.
-Anexo da foto do diagrama aqui ->
+Anexo da foto do diagrama aqui -> ![Diagrama Estrela](https://github.com/rotivleao/Teste-Analista-de-Dados-SX/assets/158123640/7dee4e9a-65cc-416a-a7e6-01ea6cc91188)
 O Database encontra-se funcionando perfeitamente dentro RailWay e caso deseje acessar, segue abaixo a rota:
     host='roundhouse.proxy.rlwy.net',
     database='railway',
